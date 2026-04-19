@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name         Amazon Auto-Sort: Lowest to Highest Price
 // @namespace    http://tampermonkey.net/
+// @downloadURL  https://raw.githubusercontent.com/angelxaces/Amazon-price-sorter/refs/heads/main/amz-asc-price-sorter.js
+// @updateURL    https://raw.githubusercontent.com/angelxaces/Amazon-price-sorter/refs/heads/main/amz-asc-price-sorter.js
 // @version      1.4
 // @description  Automatically sorts Amazon search results by lowest to highest price
 // @author       FraustByte
